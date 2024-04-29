@@ -1,7 +1,7 @@
 # Advance-Excel
 
-a. Excel Keyboard Shortcuts
-b. Conditional Formatting 
-c. Visuals Basics for Applications Macros
-d. Data Visualization in Excel
-e. Data-Driven Storytelling
+# Excel Keyboard Shortcuts
+# Conditional Formatting 
+# Visuals Basics for Applications Macros
+# Data Visualization in Excel
+# Data-Driven Storytelling
